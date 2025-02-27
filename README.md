@@ -1,2 +1,4 @@
 # ku_project
-Projects done at University of Kalyani_M.Sc_Data Science
+University of Kalyani, M.Sc_Data Science final year project
+<br>
+Author: Tanmoy Mondal
